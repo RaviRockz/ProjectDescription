@@ -1,9 +1,13 @@
 1. Dataset
 
 2. Feature Extraction
-    * Mel-frequency cepstral coefficients (MFCCs)
-    * Sonogram
-    * Combination Of MFCC and Sonogram
+    -> Module 1
+        * Mel-frequency cepstral coefficients (MFCCs)
+        * Sonogram
+        * Combination Of MFCC and Sonogram
+    -> Module 2
+        * AlexNet
+        * GoogleNet
 
 3. Classification
     * Support Vector Machine
