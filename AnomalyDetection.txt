@@ -1,0 +1,19 @@
+1. Dataset
+    http://www.svcl.ucsd.edu/projects/anomaly/dataset.html
+
+2. Preprocessing
+    * Noise Removal
+        Median Filer
+    * Contrast Enhancement
+        Histogram Equalization
+
+3. Detection and Classification
+    * Faster RCNN
+    * Inception V2
+
+4. Evaluation
+    * Precision
+    * Recall
+    * FPPI
+    * FPPW
+    * AveragePrecision
